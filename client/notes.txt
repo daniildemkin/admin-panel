@@ -1,0 +1,31 @@
+Dashboard Админ панель со статистикой
+	Next.js/React, Nest.js, PosgreSQL, Sequilize React Query, Tailwind CSS, Chart.js, Framer motion, 
+
+Кинопоиск
+	Layout
+		Header
+			Logo
+			SignIn
+				AuthForm
+	Home
+		Catalog	
+			VideoItem
+	AdminLayout
+		Header
+			SearchVideo
+			Avatar
+		Sidebar
+			Logo
+			Menu
+				MenuItem
+			SettingsMenuItem
+		Dashboard
+			MainStattistic
+				StatisticItem
+					Views, Avg rating, count reviews, count movies
+			MiddleStatistic
+				TotalFees
+				ViewsByMonth
+		Create, edit, view Videos
+		Create, edit, view Reviews
+		?Roles: Manager, Admin
